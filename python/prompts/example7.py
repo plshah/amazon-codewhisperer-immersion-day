@@ -4,5 +4,5 @@ from unittest import TestCase
 def sum(x, y):
     return x + y
 
-class TestSum(TestCase):
+def TestSum(TestCase):
     # test the sum method with integers
